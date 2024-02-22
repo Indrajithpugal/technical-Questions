@@ -1,0 +1,15 @@
+inputs = 'hello WORLD'
+print(inputs.capitalize())
+print(inputs.lower())
+print(inputs.upper())
+print(inputs.center(20,'$'))
+print(inputs.casefold())
+print(inputs.find('OR'))
+date = '22-3-2022'
+print(inputs.replace('-','/'))
+print(inputs.isalnum())
+print(inputs.isnumeric())
+print(inputs.isalpha())
+print(inputs.islower())
+print(inputs.isupper())
+print(inputs.isascii())
